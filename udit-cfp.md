@@ -9,14 +9,24 @@ good ideas through your work on developing a course ir academic
 progran, UDIT can be an excellent arena for presenting and publishing 
 your work.
 
-UDIT accepts contributions in the form of research papers, which will 
-be peer reviewed and give credits as publications with ISSN (level 1 in 
-the Norwegian publication system, Cristin) and lightning talks, which 
-do not give publication credits but serve as valuable contributions to 
-the discussions during the conference. 
+UDIT invites the submission of research papers, which will be peer reviewed.
+Accepted research papers accepted at UDIT will be published as part of the 
+conference reports from the NIKT series (e-ISSN 1892-0721). This series 
+is published by Bibsys Open Journal Systems and gives level 1 credits 
+in the Cristin system.
 
 Last year's UDIT papers can be found here:
 [https://ojs.bibsys.no/index.php/NIK/issue/view/81]()
+**TODO** update link
+
+It will also be possible to propose presentations based on abstract only.
+Abstracts will not be peer reviewed, but selected by the programme comittee
+based on their relevance and potential to generate fruitful discussion.
+Such abstract-only presentations are appropriate both for *work in progress*,
+and for *challenges* where the author invites input to concrete problems
+in their own teaching or educational design.
+
+**TODO** posters
 
 ## Research papers
 
@@ -39,14 +49,6 @@ Research papers submitted to UDIT are subject to peer review by at least three i
     - Does the title and abstract reflect the contents of the paper?
     - Is the paper formatted correctly according to the NIKT template, and does the paper stay within the page limit?
 
-Research papers accepted at UDIT will be published as part of the 
-conference reports from the NIKT series (e-ISSN 1892-0721). This series 
-is published by Bibsys Open Journal Systems and gives level 1 credits 
-in the Cristin system.
-
-It is not required that the submission be anonymous, but you may choose 
-to submit anonymously. Deadlines for submitting (mandatory) abstract 
-and research papers can be found on the main NIKT page.
 
 ## Lightning talks
 
@@ -60,45 +62,29 @@ posters of other NIKT tracks. A lightning talk will be reviewed by the
 program committee mostly based on relevance and potential to stimulate 
 discussion on teaching and learning.
 
-## Assessment and publication
+## Practical Instructions
 
-Contributions to UDIT may be written in Norwegian, another Scandinavian 
-language, or English. Presentations should be given in English if part 
-of the audience at the conference does not speak a Scandinavian 
-language.
-
-All contributions have to be original and not be published or under 
-review elsewhere.
-
-Authors retain the rights to further developing their contribution for 
-other publishing channels.
-
-We have the following requirements for publication in the conference 
-report, both for research papers and for extended abstracts for 
-posters/demonstrations:
-
-+ The required documents must be submitted within the given deadlines
++ Papers are welcome in Norwegian, English, or another Scandinavian language.
++ Presentations should be given in English if part 
+  of the audience at the conference does not speak a Scandinavian language.
+  **TODO** policy review
++ All contributions have to be original and not be published or under 
+  review elsewhere.
++ Authors retain the rights to further developing their contribution for 
+  other publishing channels.
+  **TODO** Publication license?
 + At least one author must register for the conference and present the work at the conference
++ Submission in EasyChair: 
+  [https://easychair.org/conferences/?conf=udit2022]()
++ Submitted papers must be formatted according to 
+  *LNCS Springer Computer Science Proceedings* style:
+  [https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines]()
++ The page limit is 14 pages (including references).
++ Submissions do not have to be anonymous, but you may choose to submit anonymously.
++ Deadlines for submitting (mandatory) abstract and research papers can be found on 
+  the main NIKT page.
+  **TODO** Link
 
-Under specific circumstances, a submitted manuscript can be refused by 
-the program committee without being sent for peer review. This applies 
-if the manuscript has obvious deficiencies, making peer review 
-meaningless (i.e., plagiarism, the work has been presented elsewhere, 
-no scientific contents of a topic far outside of the area of UDIT). In 
-cases of plagiarism or scientific dishonesty (i.e., plagiarism or 
-auto-generated gibberish), the rejection and its reason will not only 
-be sent to the submitter, but also, potentially, to the institution 
-where (s)he is employed, and also to those being plagiarized.
-
-## Format and submission
-
-All contributions to UDIT should be submitted via EasyChair: 
-[https://easychair.org/conferences/?conf=udit2022]()
-
-Submitted papers must be formatted according to LNCS Springer Computer Science Proceedings style:
-[https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines]()
-
-The page limit is 14 pages (including references).
 
 ## UDIT 2022 organization
 
