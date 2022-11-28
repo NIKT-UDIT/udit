@@ -30,37 +30,32 @@ in their own teaching or educational design.
 
 ## Research papers
 
-Research papers submitted to UDIT are subject to peer review by at least three independent reviewers. In assessing the papers we consider the following five aspects:
+Research papers submitted to UDIT are subject to peer review by at least
+two independent reviewers.
+Education and didactics is a broad disciplines, and we recognise that
+papers may be written in any of a range of genre, using methodologies
+for social, human, or natural sciences.
+Whatever the genre, we require a solid, scholarly standard, and the
+peer reviewers will use the following five criteria in the assessment.
 
 + Relevance for the conference
 + Potential to stimulate discussion on teaching and learning
 + Importance
-    - Does the paper bring new knowledge to the field?
+    - Does the paper bring new knowledge to the community?
     - Does the paper deal with important issues in IT or society more broadly?
-    - Can the results be generalized? How useful are the results for teachers of other courses at other universities?
-+ Scientific quality
+    - Can the results be generalized? 
+      How useful are the results for teachers of other courses at other universities?
++ Scholarly quality
     - Are the goals and research questions clearly stated?
-    - Are the methods clearly discussed?
-    - Are the results clearly stated and well supported by the data and methods used?
+    - Are the methods clearly states?
+    - Are the results clearly formulated and justified in light of existing literature
+      and/or empirical results?
     - Are the conclusions clear?
     - Are the references adequate and relevant?
 + Presentation
     - How readable is the paper? How well structured is it?
     - Does the title and abstract reflect the contents of the paper?
     - Is the paper formatted correctly according to the NIKT template, and does the paper stay within the page limit?
-
-
-## Lightning talks
-
-If you have an idea or some experiences with teaching methods and tools 
-for ICT-education, but do not have a full-fledged scientific paper on 
-it, a lightning talk is a good way to present it and have a discussion 
-on it. A lightning talk is a 5-minute presentation, with a one-page 
-abstract published in a separate part of the conference proceedings. 
-The deadline for submitting lightning talks is the same as for the 
-posters of other NIKT tracks. A lightning talk will be reviewed by the 
-program committee mostly based on relevance and potential to stimulate 
-discussion on teaching and learning.
 
 ## Practical Instructions
 
