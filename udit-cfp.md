@@ -99,4 +99,4 @@ Program Committee:
 + Robin Isfold Munkvold, Nord University
 + Torstein Strømme, University of Bergen
 
-Ansvarlig for siden: Elisabeth Rasmussen <elisabeth.rasmussen@uia.no>
+Ansvarlig for siden: **TBA**
