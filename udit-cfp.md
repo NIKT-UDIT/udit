@@ -3,16 +3,15 @@
 UDIT (The Norwegian Conference on Didactics in IT education) is a 
 meeting place for scientific publication, discussion, and exchange of 
 experiences related to teaching ICT in higher education. We welcome 
-contributions on all topics related to education, teaching, didactics 
+contributions on all topics related to education, teaching, didactics,
 and the use of ICT in learning. If you have gained new insights and 
-good ideas through your work on developing a course ir academic 
-progran, UDIT can be an excellent arena for presenting and publishing 
+good ideas through your work on developing a course or academic 
+programme, UDIT can be an excellent arena for presenting and publishing 
 your work.
 
 UDIT invites the submission of research papers, which will be peer reviewed.
-Accepted research papers accepted at UDIT will be published as part of the 
-conference reports from the NIKT series (e-ISSN 1892-0721), which is
-accredited at Level 1 i Norway. 
+Accepted papers will be published as part of the conference reports from
+the NIKT series (e-ISSN 1892-0721), which is accredited at Level 1 i Norway. 
 Last year's UDIT papers can be found at
 [https://ojs.bibsys.no/index.php/NIK/issue/view/87](https://ojs.bibsys.no/index.php/NIK/issue/view/87)
 
