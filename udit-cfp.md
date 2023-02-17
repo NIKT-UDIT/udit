@@ -25,6 +25,8 @@ based on their relevance and potential to generate fruitful discussion.
 Such abstract-only presentations are appropriate both for *work in progress*,
 and for *challenges* where the author invites input to concrete problems
 in their own teaching or educational design.
+Abstracts accepted this year are particularly welcome as full papers next
+year.
 
 **TODO** posters
 
