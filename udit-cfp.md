@@ -14,7 +14,7 @@ Accepted research papers accepted at UDIT will be published as part of the
 conference reports from the NIKT series (e-ISSN 1892-0721), which is
 accredited at Level 1 i Norway. 
 Last year's UDIT papers can be found at
-[https://ojs.bibsys.no/index.php/NIK/issue/view/87]()
+[https://ojs.bibsys.no/index.php/NIK/issue/view/87](https://ojs.bibsys.no/index.php/NIK/issue/view/87)
 
 It will also be possible to propose presentations based on abstract only.
 Abstracts will not be peer reviewed, but selected by the programme comittee
@@ -77,7 +77,7 @@ peer reviewers will use the following five criteria in the assessment.
     + Submission in EasyChair
     + Submitted papers must be formatted according to 
       *LNCS Springer Computer Science Proceedings* style:
-      [https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines]()
+      [https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
 
 ## UDIT 2022 organization
