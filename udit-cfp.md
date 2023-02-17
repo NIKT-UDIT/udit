@@ -30,8 +30,8 @@ year.
 Research papers submitted to UDIT are subject to peer review by at least
 two independent reviewers.
 Education and didactics is a broad disciplines, and we recognise that
-papers may be written in any of a range of genre, using methodologies
-for social, human, or natural sciences.
+papers may be written in any of a range of genres, using methodologies
+from social, human, or natural sciences.
 Whatever the genre, we require a solid, scholarly standard, and the
 peer reviewers will use the following five criteria in the assessment.
 
@@ -39,12 +39,12 @@ peer reviewers will use the following five criteria in the assessment.
 + Potential to stimulate discussion on teaching and learning
 + Importance
     - Does the paper bring new knowledge to the community?
-    - Does the paper deal with important issues in IT or society more broadly?
-    - Can the results be generalized? 
+    - Does the paper deal with important issues in IT education or society more broadly?
+    - Can the results be generalised? 
       How useful are the results for teachers of other courses at other universities?
 + Scholarly quality
     - Are the goals and research questions clearly stated?
-    - Are the methods clearly states?
+    - Are the methods clearly stated?
     - Are the results clearly formulated and justified in light of existing literature
       and/or empirical results?
     - Are the conclusions clear?
@@ -63,7 +63,7 @@ peer reviewers will use the following five criteria in the assessment.
   review elsewhere.
 + Papers will be published with Open Access, and authors otherwise retain 
   all rights to their contribution.
-+ At least one author must register for the conference and present the work at the conference
++ At least one author must register for the conference and present the work at the conference.
 + The upper page limit is 14 pages (including references).
   There is no lower page limit, and short contributions are welcome and
   will be assessed acording to the same criteria.
@@ -73,7 +73,7 @@ peer reviewers will use the following five criteria in the assessment.
   We expect the deadline to be around 1 September.
 + The deadline for abstract-only contributions is 15 October 2023.
 + Other details have to be agreed with the central organisation of NIKT and
-  may change from last year.  This includes
+  may change from last year.  This will be announced later.  This includes
     + Submission in EasyChair
     + Submitted papers must be formatted according to 
       *LNCS Springer Computer Science Proceedings* style:
