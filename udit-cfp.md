@@ -84,7 +84,7 @@ peer reviewers will use the following five criteria in the assessment.
 ## UDIT 2022 organization
 
 Chairs:
-+ Chair: Hans Georg Schaatun, Norwegian University of Science and Technology
++ Chair: Hans Georg Schaathun, Norwegian University of Science and Technology
 + Technical Co-chair: Yngve Lindsjørn, University of Oslo
 + Local Co-Chair: Erlend Tøssebro, University of Stavanger
 
