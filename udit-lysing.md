@@ -50,7 +50,7 @@ fylgjande kriterium ligg til grunn.
     - Er artikkelen formatert korrekt i henhold til malen?  
       Er sidegrensa overhalden?
 
-## Practiske Instruksar
+## Praktiske Instruksar
 
 + Primærspråket for konferansen er norsk/skandinavisk.
   Det er likevel høve til å senda inn artiklar og halda føredrag på engelsk.
