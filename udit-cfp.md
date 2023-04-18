@@ -56,6 +56,8 @@ peer reviewers will use the following five criteria in the assessment.
 
 ## Practical Instructions
 
++ Submission in [EasyChair](https://easychair.org/conferences/?conf=nikt2023).
+  Note that the conference is NIKT 2023; UDIT is registered as a track.
 + The principal language of the conference is Norwegian/Scandinavian.
   However, individual participants may also submit their paper and/or 
   give the presentation in English, as desired.
@@ -74,8 +76,6 @@ peer reviewers will use the following five criteria in the assessment.
 + The deadline for abstract-only contributions is 15 October 2023.
 + Other details have to be agreed with the central organisation of NIKT and
   may change from last year.  This will be announced later.  This includes
-    + Submission in [EasyChair](https://easychair.org/conferences/?conf=nikt2023).
-      Note that the conference is NIKT 2023; UDIT is registered as a track.
     + Submitted papers must be formatted according to 
       *LNCS Springer Computer Science Proceedings* style:
       [https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
