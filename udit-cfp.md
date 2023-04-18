@@ -58,6 +58,9 @@ peer reviewers will use the following five criteria in the assessment.
 
 + Submission in [EasyChair](https://easychair.org/conferences/?conf=nikt2023).
   Note that the conference is NIKT 2023; UDIT is registered as a track.
++ Submitted papers must be formatted according to 
+  *LNCS Springer Computer Science Proceedings* style:
+  [https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 + The principal language of the conference is Norwegian/Scandinavian.
   However, individual participants may also submit their paper and/or 
   give the presentation in English, as desired.
@@ -74,11 +77,6 @@ peer reviewers will use the following five criteria in the assessment.
   on the [NIKT page](https://www.uis.no/en/nikt2023).
   We expect the deadline to be around 1 September.
 + The deadline for abstract-only contributions is 15 October 2023.
-+ Other details have to be agreed with the central organisation of NIKT and
-  may change from last year.  This will be announced later.  This includes
-    + Submitted papers must be formatted according to 
-      *LNCS Springer Computer Science Proceedings* style:
-      [https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
 
 ## UDIT 2022 organization
