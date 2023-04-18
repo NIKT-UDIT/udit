@@ -7,7 +7,8 @@ contributions on all topics related to education, teaching, didactics,
 and the use of ICT in learning. If you have gained new insights and 
 good ideas through your work on developing a course or academic 
 programme, UDIT can be an excellent arena for presenting and publishing 
-your work.
+your work.  It is a scholarly conference, but the perspective is that
+of the practioner more than that of the research discipline of pedagogy.
 
 UDIT invites the submission of research papers, which will be peer reviewed.
 Accepted papers will be published as part of the conference reports from
@@ -73,7 +74,8 @@ peer reviewers will use the following five criteria in the assessment.
 + The deadline for abstract-only contributions is 15 October 2023.
 + Other details have to be agreed with the central organisation of NIKT and
   may change from last year.  This will be announced later.  This includes
-    + Submission in EasyChair
+    + Submission in [EasyChair](https://easychair.org/conferences/?conf=nikt2023).
+      Note that the conference is NIKT 2023; UDIT is registered as a track.
     + Submitted papers must be formatted according to 
       *LNCS Springer Computer Science Proceedings* style:
       [https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
