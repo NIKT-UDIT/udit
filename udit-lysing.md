@@ -1,4 +1,4 @@
-# UDIT 2022 Fyrste Bidragslysing
+# UDIT 2022 Andre Bidragslysing
 
 UDIT (Utdanning og Didaktikk i IT-faga) er nasjonal møteplass for
 vitskapleg publisering, diskusjon og utveksling av røynsler knytt til

@@ -1,4 +1,4 @@
-# UDIT 2022 First Call for Papers
+# UDIT 2022 Second Call for Papers
 
 UDIT (The Norwegian Conference on Didactics in IT education) is a 
 meeting place for scientific publication, discussion, and exchange of 
