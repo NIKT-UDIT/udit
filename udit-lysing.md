@@ -58,7 +58,7 @@ fylgjande kriterium ligg til grunn.
   [EasyChair](https://easychair.org/conferences/?conf=nikt2023).
   Merk at konferansen heiter NIKT 2023;
   UDIT er registrert som spor (*track*).
-+ Artikkelmal som fylgjer *LNCS Springer Computer Science Proceedings*:
++ Artiklane skal fylgja malen frå *LNCS Springer Computer Science Proceedings*:
   [https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 + Primærspråket for konferansen er norsk/skandinavisk.
   Det er likevel høve til å senda inn artiklar og halda føredrag på engelsk.
