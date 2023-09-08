@@ -43,6 +43,10 @@ frå fagpedagogisk forsking.
 + Bidrag vert vurderte etter to kriterium:
     + Relevans for konferansen
     + Potensiale for å stimulera diskusjon om undervising og læring
++ Utvida samandrag vert publiserte i NIKT-tidsskriftet i eit eige
+  avsnitt for arbeide utan fagfellevurdering.
+  Sidan dei ikkje er fagfellevurderte, gjev dei heller ikkje
+  publiseringspoeng.
 
 ## Programkomitéen
 
