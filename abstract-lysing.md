@@ -2,11 +2,11 @@
 
 UDIT (Utdanning og Didaktikk i IT-faga) går av stabelen 
 27.-30. november 2023.  Fristen for bidrag med full artikkel
-er ute 1. september.  No inviterer me til bidrag utan skriftleg
-publikasjon.  Desse vert administrativt vurderte basert på
-samandrag.  Dei vert ikkje fagfellevurderte og gjev dermed 
+gjekk ut 1. september.  No inviterer me til bidrag utan 
+fagfellevurdering.  Desse vert administrativt vurderte basert på
+(utvida) samandrag.  Utan fagfellevurdering gjev dei sjølvsagt 
 ikkje publikasjonspoeng, men me trur at dei kan bidra minst
-like mykje til ein god konferanse.
+like mykje til ein god fagdiskusjon på konferansen.
 
 Samandrag aksepterte i år er særleg velkomne som fulle
 fagartiklar til neste år.
@@ -18,9 +18,9 @@ vitskapleg publisering, diskusjon og utveksling av røynsler knytt til
 undervising og læring i IKT i høgare utdanning. Me ynskjer bidrag på
 eitkvart tema knytt til utdanning, læring, didaktikk, og bruk av IKT
 i læring.  Om du har fått ny innsikt eller gode idéar gjennom utvikling
-av undervising og læremateriell, så er UDIT en arena for deg.
-Konferansen skal vera fagleg, men perspektivet er frå praksis og ikkje
-frå fagpedagogisk forsking.
+av undervising og læremateriell, so er UDIT en arena for deg.
+Konferansen skal vera fagleg og akademisk, men perspektivet er
+frå praksis og ikkje frå fagpedagogisk forsking.
 
 
 ## Praktiske Instruksar
@@ -37,10 +37,10 @@ frå fagpedagogisk forsking.
     + Ikkje ta med noko samandrag (abstract) av det utvida 
       samandraget.
 + Primærspråket for konferansen er norsk/skandinavisk.
-  Det er likevel høve til å skriva og halda føredrag på engelsk.
+  Det er likevel høve til å skriva og presentera på engelsk.
 + Fristen for utvida samandrag er 13. oktober 2023.
 + Aksepterte bidrag får melding seinast 20. oktober
-+ Bidrag vert vurderte etter to kriterium:
++ Bidrag vert administrativt vurderte etter to kriterium:
     + Relevans for konferansen
     + Potensiale for å stimulera diskusjon om undervising og læring
 + Utvida samandrag vert publiserte i NIKT-tidsskriftet i eit eige
@@ -52,7 +52,7 @@ frå fagpedagogisk forsking.
 
 Komitéleiing
 + Leiar: Hans Georg Schaathun, NTNU - Noregs Teknisk-Naturvitskaplege Universitet
-+ Teiknisk nestleiar: Yngve Lindsjørn, Universitetet i Oslo
++ Teknisk nestleiar: Yngve Lindsjørn, Universitetet i Oslo
 + Lokal nestleiar: Erlend Tøssebro, Universitetet i Stavanger
 
 Komitémedlemmer
