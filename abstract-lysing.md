@@ -47,6 +47,7 @@ frå praksis og ikkje frå fagpedagogisk forsking.
   avsnitt for arbeide utan fagfellevurdering.
   Sidan dei ikkje er fagfellevurderte, gjev dei heller ikkje
   publiseringspoeng.
++ Meir informasjon om [NIKT 2023](https://www.uis.no/en/nikt2023)
 
 ## Programkomitéen
 
