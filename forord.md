@@ -1,22 +1,4 @@
-> The Norwegian conference for education and didactics in IT (UDIT) is a
-> track under the NIKT conference. This is the ninth year that UDIT has been
-> arranged as a separate track at NIKT. UDIT 2023 received 22 full paper
-> submissions, of which the program committee accepted 17 for publication. In
-> addition, four extended abstracts have been accepted for presentation. With
-> so many as 21 presentations, papers in two of the sessions are presented in
-> parallel.
-> 
-> UDIT presents this year a wide range of topics within teaching and
-> education in computer science. Data analysis and AI, IT education in
-> primary and secondary school, studies in the first year at the university,
-> sustainability, experiences after COVID 19 and gamification are among the
-> topics. We want to thank all those who submitted a paper to UDIT2023. We
-> would also like to give our thanks to the program committee members and the
-> external reviewers who did the essential job of reviewing the submissions.
-> We expect you will enjoy this year’s version of NIKT, hosted by the
-> University of Stavanger!
-
-# Forord
+# Forord til UDIT 2023
 
 Like sikkert som jula, kjem NIKT og UDIT ei veke før, og i år 
 er det stor fest.  Me fekk 23 bidrag og 17 var so gode at me
@@ -46,4 +28,20 @@ Omid Mirmotahari for å delta i fagfellevurdinga.  Lat oss heller
 ikkje gløyma deltakarane.  Det er fagdiskusjonane og historiene
 som vert fortalde når me møtest som gjer arbeidet verd å gjera.
 
+Vel møtt til konferanse,  
 Hans Georg, Yngve, Erlend
+
+# Programkomité for UDIT 2023
+
++ Hans Georg Schaathun, Norwegian University of Science and Technology (leiar)
++ Yngve Lindsjørn, University of Oslo (teknisk nestleiar)
++ Local Co-Chair: Erlend Tøssebro, University of Stavanger (lokal nestleiar)
++ Salah Uddin Ahmed, USN
++ Per-Arne Andersen, University of Agder
++ Marcin Fojcik, Western Norway University of Applied Sciences
++ Laurence Habib, OsloMET
++ Birgit Krogstie, Norwegian University of Science and Technology
++ Per Lauvås, Kristiania University College
++ Henrik Hillestad Løvold, UiT The Arctic University of Norway
++ Robin Isfold Munkvold, Nord University
++ Torstein Strømme, University of Bergen
